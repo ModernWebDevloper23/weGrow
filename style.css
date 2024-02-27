@@ -652,281 +652,281 @@ body {
 /* responsive design code */
 @media (max-width: 600px) {
     .nav {
-        font-size: 10px;
+        font-size: 10px !important;
     }
 
     .nav1 {
         width: 41vw !important;
-        height: 27px;
+        height: 27px !important;
     }
 
     .nav4 {
-        display: block;
-        height: 34px;
-        width: 15vw;
-        position: relative;
-        top: 3px;
+        display: block !important;
+        height: 34px !important;
+        width: 15vw  !important;
+        position: relative !important;
+        top: 3px !important;
     }
 
     .nav4 img {
-        filter: invert();
-        height: 24px;
-        width: 8vw;
+        filter: invert() !important;
+        height: 24px !important;
+        width: 8vw !important;
     }
 
     .nav1 img {
         width: 41vw !important;
-        height: 27px;
+        height: 27px !important;
     }
     
     .nav2,
     .nav3 {
-        display: none;
+        display: none !important;
     }
 
     .page-1 {
-        height: 100vh;
-        width: 90vw;
+        height: 100vh !important;
+        width: 90vw !important;
     }
 
     .page-1 .mid-text h1 {
-        font-size: 45px;
+        font-size: 45px !important;
     }
 
     .page-1 .subscription-status {
-        font-size: 12px;
-        width: 62vw;
-        height: 28px;
-        position: relative;
-        top: 10px;
+        font-size: 12px !important;
+        width: 62vw !important;
+        height: 28px !important;
+        position: relative !important;
+        top: 10px !important;
     }
 
     .aim {
-        font-size: 25px;
-        width: 70vw;
-        line-height: 26px;
-        position: relative;
-        top: 33px;
-        text-align: center;
+        font-size: 25px !important;
+        width: 70vw !important;
+        line-height: 26px !important;
+        position: relative !important;
+        top: 33px !important;
+        text-align: center !important;
     }
 
     .footer-1 {
-        position: relative;
-        top: 110px;
-        font-size: 15px;
-        text-align: center;
-        line-height: 17px;
+        position: relative !important;
+        top: 110px !important;
+        font-size: 15px !important;
+        text-align: center !important;
+        line-height: 17px !important;
     }
 
     .pricing {
-        flex-direction: column;
+        flex-direction: column !important;
     }
 
     .pricebtn,
     .callbtn {
-        font-size: 21px;
-        padding: 25px 80px;
-        position: relative;
-        top: 50px;
+        font-size: 21px !important;
+        padding: 25px 80px !important;
+        position: relative !important;
+        top: 50px !important;
     }
 
     .coverVedio {
-        height: 100vh;
-        width: 90vw;
-        overflow: visible hidden visible visible;
+        height: 100vh !important;
+        width: 90vw !important;
+        overflow: visible hidden visible visible !important;
     }
 
     .mainVedio1 {
-        display: block;
+        display: block !important;
     }
 
     .mainVedio {
-        display: none;
+        display: none !important;
     }
 
     .Header-logo {
-        position: relative;
-        top: 3vh;
+        position: relative !important;
+        top: 3vh !important;
     }
 
     .our-process-section {
-        height: 300vh;
-        justify-content: space-between;
+        height: 300vh !important;
+        justify-content: space-between !important;
     }
 
     .Header {
-        width: 90vw;
+        width: 90vw !important;
     }
 
     .Header h1 {
-        color: #0a4637;
-        font-size: 45px;
+        color: #0a4637 !important;
+        font-size: 45px !important;
     }
 
     .number-div h1 {
-        font-size: 30px;
+        font-size: 30px !important;
     }
 
     .number-div div {
-        width: 62vw;
+        width: 62vw !important;
     }
 
     .para {
-        width: 70vw;
+        width: 70vw !important;
     }
 
     .para p {
-        font-size: 21px;
-        font-weight: 400;
-        text-align: left;
-        line-height: 25px;
-        color: #0b4234;
+        font-size: 21px !important;
+        font-weight: 400 !important;
+        text-align: left !important;
+        line-height: 25px !important;
+        color: #0b4234 !important;
     }
 
     .card-container {
-        display: flex;
-        height: 190vh;
-        flex-direction: column;
-        position: relative;
-        justify-content: space-between;
-        align-items: center;
-        top: 0vh;
+        display: flex !important;
+        height: 190vh !important;
+        flex-direction: column !important;
+        position: relative !important;
+        justify-content: space-between !important;
+        align-items: center !important;
+        top: 0vh !important;
     }
 
     .cards {
-        width: 80vw;
-        height: 60vh;
+        width: 80vw !important;
+        height: 60vh !important;
     }
 
     .image-div {
-        width: 100%;
+        width: 100% !important;
     }
 
     .number-div {
-        width: 100%;
-        display: flex;
+        width: 100% !important;
+        display: flex !important;
     }
 
     .text-div {
-        width: 100%;
+        width: 100% !important;
     }
 
     .ultimate-marque-child-1,
     .ultimate-marque-child-2 {
-        width: 240vw;
+        width: 240vw !important;
 
     }
 
     .ultimate-marque-grand-child {
-        width: 240vw;
+        width: 240vw !important;
     }
 
     .ultimate-marque-parent img {
-        width: 70vw;
+        width: 70vw !important;
     }
 
     .selected-projects {
-        padding-top: 0px;
+        padding-top: 0px !important;
     }
 
     .project-1,
     .project-2,
     .project-3 {
-        height: 90vh;
-        display: flex;
-        flex-direction: column-reverse;
+        height: 90vh !important;
+        display: flex !important;
+        flex-direction: column-reverse !important;
     }
 
     .part2 {
-        width: 80vw;
-        height: 27vh;
+        width: 80vw !important;
+        height: 27vh !important;
     }
 
     .part2 img {
-        width: 80vw;
-        height: 27vh;
+        width: 80vw !important;
+        height: 27vh !important;
     }
 
     .part1,
     .part1 p {
-        width: 80vw;
+        width: 80vw !important;
 
     }
 
     .part1 {
-        height: 60vh;
+        height: 60vh !important;
     }
 
     .part1 p {
-        color: #0b4234;
-        position: relative;
+        color: #0b4234 !important;
+        position: relative !important;
         top: 15px;
     }
 
     .projectName {
-        color: #0b4234;
+        color: #0b4234 !important;
     }
 
     .btn {
-        width: 80vw;
-        padding: 23px 50px;
+        width: 80vw !important;
+        padding: 23px 50px !important;
     }
 
     .logos h1 {
-        font-size: 18px;
-        position: relative;
-        top: 70px;
+        font-size: 18px !important;
+        position: relative !important;
+        top: 70px !important;
     }
 
     .marque {
-        width: 90vw;
-        /* border: 1px solid white; */
-        height: 20vh;
-        white-space: nowrap;
-        position: relative;
+        width: 90vw !important;
+        /* border: 1px solid white !important; */
+        height: 20vh !important;
+        white-space: nowrap !important;
+        position: relative !important;
     }
     .wrapper-marque{
-        width: 320vw;
+        width: 320vw !important;
     }
 
     .marque-rows {
-        width: 320vw;
-        height: 20vh;
+        width: 320vw !important;
+        height: 20vh !important;
         /* flex-wrap: nowrap; */
-        animation-name: slide;
-        animation-duration: 15s;
-        animation-iteration-count: infinite;
-        animation-timing-function: linear;
-        display: flex;
-        align-items: center;
-        justify-content: space-around;
+        animation-name: slide !important;
+        animation-duration: 15s !important;
+        animation-iteration-count: infinite !important;
+        animation-timing-function: linear !important;
+        display: flex !important;
+        align-items: center !important;
+        justify-content: space-around !important;
     }
 
     .marque-rows img {
-        height: 6vh;
-        width: 63vw;
+        height: 6vh !important;
+        width: 63vw !important;
     }
 
     .marque::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: 0;
-        height: 20vh;
-        width: 30vw;
-        z-index: 2;
-        background: linear-gradient(to right, #052D23, rgba(255, 255, 255, 0));
+        content: "" !important;
+        position: absolute !important;
+        top: 0 !important;
+        left: 0 !important;
+        height: 20vh !important;
+        width: 30vw !important;
+        z-index: 2 !important;
+        background: linear-gradient(to right, #052D23, rgba(255, 255, 255, 0)) !important;
     }
 
     .marque::after {
-        content: "";
-        position: absolute;
-        top: 0;
-        right: 0;
-        height: 20vh;
-        width: 30vw;
-        z-index: 2;
-        background: linear-gradient(to left, #052D23, rgba(255, 255, 255, 0));
+        content: "" !important;
+        position: absolute !important;
+        top: 0 !important;
+        right: 0 !important;
+        height: 20vh !important;
+        width: 30vw !important;
+        z-index: 2 !important;
+        background: linear-gradient(to left, #052D23, rgba(255, 255, 255, 0)) !important;
     }
 /* 
     .main {
@@ -945,26 +945,26 @@ body {
     }
      */
      .motivation-header{
-        font-size: 40px;
-        width: 90vw;
-        font-family: bold;
+        font-size: 40px !important;
+        width: 90vw !important;
+        font-family: bold !important;
 
     }
     .motivation-header span{
-        font-family: cursy;
+        font-family: cursy !important;
     }
      .motivation-text{
-        width: 80vw;
-        font-size: 20px;
-        font-family: bold;
+        width: 80vw !important;
+        font-size: 20px !important;
+        font-family: bold !important;
      }
      .last button{
-        padding: 25px 50px;
-        font-weight: 400;
+        padding: 25px 50px !important;
+        font-weight: 400 !important;
         
      }
      .last{
-        padding: 24vh 0px;
+        padding: 24vh 0px !important;
      }
 }
 
